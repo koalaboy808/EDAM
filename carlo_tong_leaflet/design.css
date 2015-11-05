@@ -9,4 +9,10 @@ body {
     padding-right: 50px;
     padding-bottom: 25px;
     padding-left: 50px;
+  	font-family: 'Oswald', sans-serif;
+}
+}
+
+h2 {
+	font-color: blue;
 }
